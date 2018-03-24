@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="0" tests="0" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="0" failures="0" errors="0" time="0" timestamp="2018-03-24 15:33:01" hostname="Jo - DESKTOP-QBUMRTA" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Jo\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20180324_153244"/>
+         <property name="logFiles" value="C:\\Users\\Jo\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20180324_153244\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Jo - DESKTOP-QBUMRTA"/>
+         <property name="hostAddress" value="192.168.1.100"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+      </properties>
+      <system-out><![CDATA[2018-03-24 15:33:01 - [TEST_SUITE][PASSED] - TestSuite1: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
