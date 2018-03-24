@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 65.0.3325.181,,2018-03-24 16:04:35,2018-03-24 16:04:44,8.803s,PASSED
+,,,,,,
+Test Cases/Test1,Chrome 65.0.3325.181,,2018-03-24 16:04:36,2018-03-24 16:04:44,8.110s,PASSED
+openBrowser,Chrome 65.0.3325.181,,2018-03-24 16:04:37,2018-03-24 16:04:43,6.884s,PASSED
+closeBrowser,Chrome 65.0.3325.181,,2018-03-24 16:04:43,2018-03-24 16:04:44,0.684s,PASSED
